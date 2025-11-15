@@ -1,0 +1,10 @@
+--onefile
+--windowed
+--icon=icon.ico  # если есть иконка
+--name="BP_Calculator"
+--add-data="bp_data.json;."
+--hidden-import=tkinter
+--hidden-import=json
+--hidden-import=os
+--hidden-import=time
+--hidden-import=sys
